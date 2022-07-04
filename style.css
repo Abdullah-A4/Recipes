@@ -1,10 +1,12 @@
 body {
     background-color: black;
     color: white;
+    font-family: sans-serif, 'Times New Roman', Times, serif;
 }
 
 h1 {
     color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h3 {
